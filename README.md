@@ -1,12 +1,12 @@
-# Bowser Castle
-
+# Dotnet in the Bowser Castle
+```
 #   ▄▀▀█▄▄   ▄▀▀▀▀▄   ▄▀▀▄    ▄▀▀▄  ▄▀▀▀▀▄  ▄▀▀█▄▄▄▄  ▄▀▀▄▀▀▀▄      ▄▀▄▄▄▄   ▄▀▀█▄   ▄▀▀▀▀▄  ▄▀▀▀█▀▀▄  ▄▀▀▀▀▄     ▄▀▀█▄▄▄▄ 
 #  ▐ ▄▀   █ █      █ █   █    ▐  █ █ █   ▐ ▐  ▄▀   ▐ █   █   █     █ █    ▌ ▐ ▄▀ ▀▄ █ █   ▐ █    █  ▐ █    █     ▐  ▄▀   ▐ 
 #    █▄▄▄▀  █      █ ▐  █        █    ▀▄     █▄▄▄▄▄  ▐  █▀▀█▀      ▐ █        █▄▄▄█    ▀▄   ▐   █     ▐    █       █▄▄▄▄▄  
 #    █   █  ▀▄    ▄▀   █   ▄    █  ▀▄   █    █    ▌   ▄▀    █        █       ▄▀   █ ▀▄   █     █          █        █    ▌  
 #   ▄▀▄▄▄▀    ▀▀▀▀      ▀▄▀ ▀▄ ▄▀   █▀▀▀    ▄▀▄▄▄▄   █     █        ▄▀▄▄▄▄▀ █   ▄▀   █▀▀▀    ▄▀         ▄▀▄▄▄▄▄▄▀ ▄▀▄▄▄▄   
 #  █    ▐                     ▀     ▐       █    ▐   ▐     ▐       █     ▐  ▐   ▐    ▐      █           █         █    ▐   
-#  ▐                                        ▐                      ▐                        ▐           ▐         ▐ 
+#  ▐   
        
   / \               / \
  /   \             /   \
@@ -26,11 +26,15 @@
            |      |
            (      (
             \      \
+```
 
 dotnet try Bowser Castle for .NET Core 3.0 and C# 8.0
 Interactive markdown files documentation for .NET Core to use for code tutorials on my [webpage](https://www.amiedd.com)
 
 This project is based off [Try .NET ](https://github.com/dotnet/try)
+
+**Project Webpage**
+https://amiedd.github.io/dotnet_Bowser_Castle/
 
 ## IDE
 Either one of the the below editors is compatible
