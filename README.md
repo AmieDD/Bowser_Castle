@@ -57,6 +57,11 @@ Verify dotnet try global tool with the command below
 dotnet try -h you will see a list of commands:
 ```
 
+### Check what version SDK you have installed
+```dotnet
+dotnet --list--sdks
+```
+
 Command	| Purpose |
 ----- | ----- | 
 demo |	Try .NET content with an interactive demo |
@@ -65,7 +70,8 @@ verify	|Verify Markdown files  |
 ## Troubleshooting :confused:
 1. I've downloaded .NET Core 3.0, but when I open my project I get a Error "Error	NETSDK1045	The current .NET SDK does not support targeting .NET Core 3.0.  Either target .NET Core 2.2 or lower, or use a version of the .NET SDK that supports .NET Core 3.0."
 ![.NET 3 Troubleshooting](https://github.com/AmieDD/dotnet_Bowser_Castle/blob/master/Images/dotnet3_missing.PNG)
- *Solution* If you've already installed .NET 3.0 SDK try to restart Visual Studio 2019 and your computer
+ *Solution* If you've already installed .NET 3.0 SDK try to restart Visual Studio 2019 and your computer.
+ My version of the Visual Studio Installer also needed an massive update.
 
 ### Change Log
 Name  | Version | Date | Change Description
